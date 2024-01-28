@@ -2,6 +2,9 @@ import org.example.Stack
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.Assertions.*
 
+/**
+ * This is a basic test suite for the main functions of our [Stack] class
+ */
 class StackTest {
 
     @Test
